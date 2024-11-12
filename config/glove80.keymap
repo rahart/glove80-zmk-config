@@ -97,7 +97,7 @@
 &kp TAB                  &kp Q      &kp W    &kp F             &kp R              &kp B                                                                                                                            &kp J   &kp L     &kp U      &kp Y    &kp SEMICOLON  &kp BSLH
 &mt LEFT_CONTROL ESCAPE  &kp A      &kp R    &kp S             &kp T              &kp G                                                                                                                            &kp M   &kp N     &kp E      &kp I    &kp O          &kp SQT
 &kp LEFT_SHIFT           &kp Z      &kp X    &kp C             &kp D              &kp V   &kp LEFT_CONTROL  &kp LEFT_ALT  &layer_td                   &kp RIGHT_ALT              &kp RIGHT_WIN  &kp RIGHT_CONTROL  &kp K   &kp H     &kp COMMA  &kp DOT  &lt 5 SLASH    &kp RIGHT_SHIFT
-&magic MAGIC 0           &kp TILDE  &kp END  &kp LEFT_BRACKET  &kp RIGHT_BRACKET          &kp ENTER         &kp TAB       &kp LA(LC(LG(LEFT_SHIFT)))  &kp RA(RG(RIGHT_CONTROL))  &kp BACKSPACE  &lt 5 SPACE                &kp LEFT  &kp DOWN   &kp UP   &kp RIGHT      &kp PG_DN
+&magic MAGIC 0           &kp TILDE  &kp END  &kp LEFT_BRACKET  &kp RIGHT_BRACKET          &kp ENTER         &kp TAB       &kp LA(LC(LG(LEFT_SHIFT)))  &kp RA(RG(RIGHT_CONTROL))  &kp BACKSPACE  &lt 5 SPACE                &kp LEFT  &kp DOWN   &kp UP   &kp RIGHT      &kp SCROLLLOCK
             >;
         };
 
